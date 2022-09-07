@@ -194,7 +194,7 @@ function call_api_services_encryption_with_id($id_1,$id_2,
 
 	//data 1
 	$data[] = array (
-	 'data_field' => 'customer_email' ,
+	 'data_field' => 'customer_note' ,
 	 'data_raw' => $customer_note	
 	);
 
