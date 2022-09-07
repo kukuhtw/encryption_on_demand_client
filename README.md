@@ -3,6 +3,9 @@
 Ini adalah contoh penggunaan layanan encryption on demand dari sisi client.
 Anda juga membutuhkan repository ini https://github.com/kukuhtw/encryption_on_demand/
 
+overview : 
+https://kukuhtw.medium.com/mengatasi-kebocoran-data-dengan-layanan-enkripsi-dan-dekripsi-online-b01795e14954
+
 Apps dibuat oleh : Kukuh TW
 blog : https://kukuhtw.medium.com
 youtube : https://youtube.com/kukuhtw
