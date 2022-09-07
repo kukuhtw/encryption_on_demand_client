@@ -1,7 +1,7 @@
 # encryption_on_demand_client by Kukuh TW
 
-Ini adalah contoh penggunaan layanan encryption on demand dari sisi client
-anda membutuhkan repository ini , untuk mencoba https://github.com/kukuhtw/encryption_on_demand/
+Ini adalah contoh penggunaan layanan encryption on demand dari sisi client.
+Anda juga membutuhkan repository ini https://github.com/kukuhtw/encryption_on_demand/
 
 Apps dibuat oleh : Kukuh TW
 blog : https://kukuhtw.medium.com
