@@ -27,6 +27,15 @@ $customer_phone = isset($_POST['customer_phone']) ? $_POST['customer_phone'] : '
 
 $json_return="";
 
+$customer_name = mysqli_escape_string($link,$customer_name);
+$customer_email = mysqli_escape_string($link,$customer_email);
+$customer_address = mysqli_escape_string($link,$customer_address);
+$customer_zipcode = mysqli_escape_string($link,$customer_zipcode);
+$customer_phone = mysqli_escape_string($link,$customer_phone);
+$mode = mysqli_escape_string($link,$mode);
+
+
+
 if ($mode=="save" && $customer_name!="" && $customer_email!="" && $customer_address!="") {
 	
 
