@@ -1,7 +1,5 @@
 # encryption_on_demand_client by Kukuh TW
 
-
-
 ![alt text](https://miro.medium.com/max/339/1*zF2vJGbz69wZLTZGuWITfQ.png)
 
 Ini adalah contoh penggunaan layanan encryption on demand dari sisi client.
