@@ -5,6 +5,11 @@
 Ini adalah contoh penggunaan layanan encryption on demand dari sisi client.
 Anda juga membutuhkan repository ini https://github.com/kukuhtw/encryption_on_demand/
 
+
+Data lebih aman disimpan dalam bentuk chipper text
+![alt text](https://miro.medium.com/max/1800/1*PBjNV7fR9Gq_bvckVb-DTQ.png)
+
+
 overview : 
 https://kukuhtw.medium.com/mengatasi-kebocoran-data-dengan-layanan-enkripsi-dan-dekripsi-online-b01795e14954
 
